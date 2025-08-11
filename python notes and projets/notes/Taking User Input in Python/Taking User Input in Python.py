@@ -1,0 +1,8 @@
+a = input ("Enter your first number")
+b = input("Enter your second number")
+print(int(a) + int(b))
+print(int(a) * int(b))
+print(int(a) % int(b))
+print(float(a) + float(b))
+print(float(a) * float(b))
+print(float(a) % float(b))

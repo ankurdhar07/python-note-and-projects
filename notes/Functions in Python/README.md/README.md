@@ -72,6 +72,7 @@ First number is not greater than second number
 2.727272727272727
 First number is greater than second number
 Hello Rahul Sonu
+
 📌 Key Points
 
 - Functions are reusable and prevent code repetition.

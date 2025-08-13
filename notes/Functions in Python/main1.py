@@ -45,9 +45,9 @@ a = 6
 b = 3
 isGreater(a, b)
 
-# def isLesser(a, b):
-#     pass
-# def name(Sam, Ram):
-#     print("Hello", Sam, Ram)
+def isLesser(a, b):
+    pass
+def name(Sam, Ram):
+    print("Hello", Sam, Ram)
 
-# name("Rahul", "Sonu")
+name("Rahul", "Sonu")

@@ -84,4 +84,4 @@ Hello Rahul Sonu
 - Functions can accept multiple parameters.
 
 Author: Ankur Dhar
-Note: For Loops in Python
+Note: Functions in Python

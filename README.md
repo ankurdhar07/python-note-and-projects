@@ -53,7 +53,7 @@ Yahaan tumhe hands-on projects milenge jo directly Python ke concepts ko apply k
 1. Clone the repository:
 git clone https://github.com/ankurdhar07/MyRepo.git
 cd MyRepo
-2. Run any Python file:
+3. Run any Python file:
 python main.py
 
 🌟 Why This Repo?

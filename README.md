@@ -51,7 +51,7 @@ Yahaan tumhe hands-on projects milenge jo directly Python ke concepts ko apply k
 🚀 How to Run
 
 1. Clone the repository:
-git clone https://github.com/your-username/MyRepo.git
+git clone https://github.com/ankurdhar07/MyRepo.git
 cd MyRepo
 2. Run any Python file:
 python main.py

@@ -94,7 +94,7 @@ Explanation:
 1. Save the script as break_continue.py.
 
 2. Open your terminal and run:
-python break_continue.py
+python main.py
 
 3. Follow the on-screen instructions.
 

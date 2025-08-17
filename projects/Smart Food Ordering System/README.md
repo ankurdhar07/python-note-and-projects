@@ -38,18 +38,18 @@ Smart Food Ordering System/
 
 📝 Example Output:
 
-=== Welcome to Ankur's cafe ===
+- === Welcome to Ankur's cafe ===
 
-Menu ---
+- Menu ---
 
-cold coffee : 10$
-burger : 20$
-pizza : 32$
-icecream : 5$
+- cold coffee : 10$
+- burger : 20$
+- pizza : 32$
+- icecream : 5$
 
 
-Soo... what do you want to order? : pizza
-You ordered a pizza - price : 32$
+- Soo... what do you want to order? : pizza
+- You ordered a pizza - price : 32$
 
 
 📄 License

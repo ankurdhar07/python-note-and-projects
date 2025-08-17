@@ -33,22 +33,22 @@ python main.py
 
 📌 Example Output:
 
-Enter a number for its Multiplication Table : 5
+- Enter a number for its Multiplication Table : 5
 
-Multiplication table of 5
-5 * 1 = 5
-5 * 2 = 10
-...
-5 * 10 = 50
+- Multiplication table of 5
+- 5 * 1 = 5
+- 5 * 2 = 10
+- ...
+- 5 * 10 = 50
 
-Countdown before exiting this round :
-5
-4
-3
-2
-1
+- Countdown before exiting this round :
+- 5
+- 4
+- 3
+- 2
+- 1
 
-Do you want to generate another table? (yes/no) : yes
+- Do you want to generate another table? (yes/no) : yes
 
 
 📜 License

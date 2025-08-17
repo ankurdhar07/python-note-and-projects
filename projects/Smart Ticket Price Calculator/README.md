@@ -36,7 +36,8 @@ Enter your age : 15
 Enter time of the day (morning / afternoon / evening) : evening
 Your ticket price is 200
 
-🛠 Logic Behind the Program
+🛠 Logic Behind the Program:
+
 - Children (≤12 years): Cheaper rates.
 
 - Teens (≤18 years): Slightly higher rates.

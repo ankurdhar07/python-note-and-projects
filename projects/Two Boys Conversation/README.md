@@ -17,27 +17,27 @@ This project is aimed at beginners who are starting to learn Python’s input() 
 
 1. Make sure you have Python 3 installed.
 
-2. Save the script as two_boys_conversation.py.
+2. Save the script as main.py.
 
 3. Open your terminal/command prompt and run:
-python two_boys_conversation.py
+python main.py
 
 📂 Example Output:
 
-What is your name? Ankur
-What to see two boys conversation?
-Then type "Yes"
-Yes
+- What is your name? Ankur
+- What to see two boys conversation?
+- Then type "Yes"
+- Yes
 
-This is the conversation of two boys...
+- This is the conversation of two boys...
 
-Ankur: Heyyy Rahul! How are you?
-Rahul: i am fine bro...
-Rahul: And, what about you?
-Ankur: yeaah i am fine brother...
-Rahul: ohh then it's good
-Rahul: okay then see you later, byeee
-Ankur:good to see you, byeee take care
+- Ankur: Heyyy Rahul! How are you?
+- Rahul: i am fine bro...
+- Rahul: And, what about you?
+- Ankur: yeaah i am fine brother...
+- Rahul: ohh then it's good
+- Rahul: okay then see you later, byeee
+- Ankur:good to see you, byeee take care
  
  
 📜 License

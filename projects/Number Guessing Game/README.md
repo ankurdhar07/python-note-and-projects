@@ -31,20 +31,20 @@ cd python-note-and-projects
 
 ▶️ How to Run:
 
-Run the script using Python:
+- Run the script using Python:
 python main.py
 
 📂 Code:
 
 import random
 
-print("\n\nWelcome to the number guessing game!")
-print("\nChoose a number between 1 to 100")
-print("\nYou have 5 attempts...\n")
+- print("\n\nWelcome to the number guessing game!")
+- print("\nChoose a number between 1 to 100")
+- print("\nYou have 5 attempts...\n")
 
-secret_number = random.randint(1, 50)
+- secret_number = random.randint(1, 50)
 
-for chance in range(1, 6):
+- for chance in range(1, 6):
     guess = int(input(f"\nAttempts Left {chance} - Enter your number :"))
     if guess == secret_number:
         print("\nYayy! You entered the correct number!")
@@ -54,26 +54,26 @@ for chance in range(1, 6):
     else:
         print("Too High!")
 
-print(f"\n\nThe secret number was : {secret_number}\n")
+- print(f"\n\nThe secret number was : {secret_number}\n")
 
 
 📸 Example Output:
 
-Welcome to the number guessing game!
+- Welcome to the number guessing game!
 
-Choose a number between 1 to 100
+- Choose a number between 1 to 100
 You have 5 attempts...
 
-Attempts Left 1 - Enter your number : 25
+- Attempts Left 1 - Enter your number : 25
 Too Low!
 
-Attempts Left 2 - Enter your number : 40
+- Attempts Left 2 - Enter your number : 40
 Too High!
 
-Attempts Left 3 - Enter your number : 35
+- Attempts Left 3 - Enter your number : 35
 Yayy! You entered the correct number!
 
-The secret number was : 35
+- The secret number was : 35
 
 
 📄 License

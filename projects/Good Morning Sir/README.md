@@ -6,35 +6,35 @@ Automatically detects the current system time.
 
 Greets appropriately:
 
-Good Morning Sir (5:00 AM – 11:59 AM)
+- Good Morning Sir (5:00 AM – 11:59 AM)
 
-Good Evening Sir (12:00 PM – 3:59 PM)
+- Good Evening Sir (12:00 PM – 3:59 PM)
 
-Good Afternoon Sir (4:00 PM – 5:59 PM)
+- Good Afternoon Sir (4:00 PM – 5:59 PM)
 
-Good Night Sir (6:00 PM – 4:59 AM)
+- Good Night Sir (6:00 PM – 4:59 AM)
 
 🖥️ How It Works:
 
-The program uses Python’s built-in datetime module to get the current hour.
+- The program uses Python’s built-in datetime module to get the current hour.
 
-Based on the hour, it selects a greeting message.
+- Based on the hour, it selects a greeting message.
 
-Prints the greeting directly to the console.
+- Prints the greeting directly to the console.
 
 💻 Code Example:
 
-from datetime import datetime
+- from datetime import datetime
 
-current_time = datetime.now().hour
+- current_time = datetime.now().hour
 
-if 5 <= current_time < 12:
+- if 5 <= current_time < 12:
     print("Good morning sir")
-elif 12 <= current_time < 16:
+- elif 12 <= current_time < 16:
     print("Good evening sir")
-elif 16 <= current_time < 18:
+- elif 16 <= current_time < 18:
     print("Good afternoon sir")
-else:
+- else:
     print("Good night sir")
 
 🚀 How to Run:
@@ -49,7 +49,7 @@ python main.py
 
 📂 File Structure:
 
-Good-Morning-Sir/
+Good Morning Sir/
 │-- main.py
 │-- README.md
 

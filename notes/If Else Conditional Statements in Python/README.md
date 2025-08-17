@@ -44,7 +44,7 @@ if a <= 18:
 else:
     print("You can drive")
 
-💻 Example Output
+💻 Example Output:
 
 your value of number: -5
 Number is negative
@@ -56,7 +56,8 @@ True
 True
 You cannot drive
 
-📖 Notes
+📖 Notes:
+
 - Use if-elif-else to handle multiple conditions in a clean and structured way.
 
 - Conditional operators help compare values and make decisions in code.

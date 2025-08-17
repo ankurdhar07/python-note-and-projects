@@ -4,7 +4,8 @@ This note demonstrates various ways to define and use function arguments in Pyth
 
 ---
 
-## 1. Basic Function Arguments
+## 1. Basic Function Arguments:
+
 A simple example of passing two parameters to a function:
 ```python
 def average(a, b):
@@ -13,7 +14,7 @@ def average(a, b):
 average(2, 4)  # Output: The average is 3.0
 
 
-2. Default Arguments
+2. Default Arguments:
 
 Default arguments allow parameters to have a default value if not provided by the caller.
 
@@ -23,7 +24,7 @@ def average(a, b, c=5):
 average(3, 5)  # Output: The average is 6.5
 
 
-3. Keyword Arguments
+3. Keyword Arguments:
 
 Keyword arguments allow passing values to specific parameters by name, regardless of their order.
 
@@ -33,7 +34,7 @@ def name(fname, mname="Subham", lname="Rahul"):
 name("Ankur", "Dan", "Satyam")  # Output: Hello, Ankur Dan Satyam
 
 
-4. Positional Arguments
+4. Positional Arguments:
 
 The order of the arguments matters here.
 
@@ -43,7 +44,7 @@ def name(fname, mname, lname):
 name("Krishu", "Ankur", "Sonu")  # Output: Hello Krishu Ankur Sonu
 
 
-5. Arbitrary Positional Arguments (*args)
+5. Arbitrary Positional Arguments (*args):
 
 Use *args to accept multiple positional arguments in a tuple.
 
@@ -57,7 +58,7 @@ c = average(2, 4)
 print(c)  # Output: 3.0
 
 
-6. Arbitrary Keyword Arguments (**kwargs)
+6. Arbitrary Keyword Arguments (**kwargs):
 
 Use **kwargs to accept multiple keyword arguments in a dictionary.
 
@@ -71,7 +72,7 @@ name(mname="John", lname="Rick", fname="Ayon")
 # Hello, Ayon John Rick
 
 
-📌 Key Takeaways
+📌 Key Takeaways:
 
 - Default arguments provide flexibility when parameters may have a common value.
 

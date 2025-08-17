@@ -16,7 +16,9 @@ while True:
     print(a)
     if not (a > 0):
         break
-📖 How It Works
+
+📖 How It Works:
+
 1. Start Loop: The while True statement starts an infinite loop.
 
 2. Take Input: The user is prompted to enter a number.
@@ -32,7 +34,7 @@ while True:
 5. Guarantee: The code inside the loop runs at least one time, no matter the input
 
 
-🧠 Key Points
+🧠 Key Points:
 
 1. Simulates do...while loop behavior in Python.
 

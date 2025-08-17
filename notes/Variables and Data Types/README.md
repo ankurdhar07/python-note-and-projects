@@ -35,25 +35,29 @@ Here:
 
 - d is a boolean (bool)
 
-2️⃣ Checking Data Types
+2️⃣ Checking Data Types:
+
 We can check the type of a variable using the type() function:
 print(type(c))
 print(type(b))
 print(type(a))
 
-3️⃣ Numeric Data Types
+3️⃣ Numeric Data Types:
+
 - int → Whole numbers (e.g., 3, -8, 0)
 
 - float → Decimal numbers (e.g., 7.349, -9.0)
 
 - complex → Numbers with imaginary part (e.g., 6 + 2j)
 
-4️⃣ Boolean Data
+4️⃣ Boolean Data:
+
 Boolean values are either:
 True
 False
 
-5️⃣ Conditional Statements
+5️⃣ Conditional Statements:
+
 if (3 > 7):
     print("f is greater than g")
 else:
@@ -61,7 +65,7 @@ else:
 
 This checks if a condition is True or False and executes code accordingly.
 
-6️⃣ Collections in Python
+6️⃣ Collections in Python:
 
 📋 List (Mutable, ordered)
 
@@ -73,13 +77,15 @@ dict1 = {"Name": "Krishu", "Age": 15, "canvote": True}
 🗂 Tuple (Immutable, ordered)
 tuple = (("Ankur", "Krishu"), ("Horse", "Lion", "Cat"))
 
-7️⃣ Printing Strings
+7️⃣ Printing Strings:
+
 print("Hello World")
 print("Early to bed\nearly to rise\nwake up morning")
 
 Here, \n is used to move to the next line.
 
-🖥 Example Output
+🖥 Example Output:
+
 <class 'NoneType'>
 <class 'str'>
 <class 'int'>
@@ -92,7 +98,7 @@ Early to bed
 early to rise
 wake up morning
 
-📚 Summary
+📚 Summary:
 
 - This program helps in understanding:
 

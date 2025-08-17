@@ -23,16 +23,17 @@ print(float(a) + float(b))  # Addition
 print(float(a) * float(b))  # Multiplication
 print(float(a) % float(b))  # Modulo
 
-🚀 How to Run
+🚀 How to Run:
+
 1. Make sure you have Python 3.x installed.
 
-2. Save the file as user_input.py.
+2. Save the file as main.py.
 
 3. Open a terminal and run:
-python user_input.py
+python main.py
 
 
-💡 Example Output
+💡 Example Output:
 
 Enter your first number: 5
 Enter your second number: 3
@@ -43,7 +44,7 @@ Enter your second number: 3
 15.0
 2.0
 
-📌 Key Concepts
+📌 Key Concepts:
 
 - input() always returns a string, so type conversion (int() / float()) is needed for numeric operations.
 

@@ -47,6 +47,7 @@ calculateGmean(a, b)
 Functions for Comparison
 
 Two comparison functions are defined:
+
 def isGreater(a, b):
     if a > b:
         print("First number is greater than second number")
@@ -64,6 +65,7 @@ isGreater(6, 3)
 name("Rahul", "Sonu")
 
 Example Output:
+
 1.3333333333333333
 2.6666666666666665
 First number is greater than second number
@@ -73,7 +75,7 @@ First number is not greater than second number
 First number is greater than second number
 Hello Rahul Sonu
 
-📌 Key Points
+📌 Key Points:
 
 - Functions are reusable and prevent code repetition.
 

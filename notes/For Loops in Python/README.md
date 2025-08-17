@@ -7,7 +7,9 @@ The `for` loop in Python is used to iterate over a sequence (like a list, tuple,
 ```python
 for variable in sequence:
     # Code to execute for each element
-📖 How It Works
+
+📖 How It Works:
+
 1. Iteration: The loop picks one element from the sequence at a time.
 
 2. Code Execution: Executes the loop body with the current element.
@@ -18,7 +20,8 @@ for variable in sequence:
 
 5. Optional else: Runs once after the loop finishes naturally (without break).
 
-✅ Key Points
+✅ Key Points:
+
 - Commonly used with range() for numeric loops.
 
 - Can loop through any iterable (list, tuple, string, dictionary, etc.).

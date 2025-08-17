@@ -21,7 +21,7 @@ This note contains multiple examples:
 
 ## 📂 Code Structure
 
-### 1️⃣ For Loop with `continue` and `break`
+### 1️⃣ For Loop with `continue` and `break`:
 ```python
 for i in range(12):
     if (i == 5):
@@ -37,7 +37,7 @@ Explanation:
 
 - Stops the loop when i reaches 9.
 
-2️⃣ For Loop with a List and continue
+2️⃣ For Loop with a List and continue:
 
 for i in [2, 4, 6, 8, 0]:
     if (i % 2 != 0):
@@ -47,7 +47,7 @@ for i in [2, 4, 6, 8, 0]:
 Explanation:
 Prints only even numbers, skipping odd ones.
 
-3️⃣ Infinite While Loop with Break
+3️⃣ Infinite While Loop with Break:
 
 i = 0
 while True:
@@ -60,7 +60,7 @@ print("\n=== The loop has ended ===\n")
 Explanation:
 Counts up and stops when the remainder of i divided by 100 equals 51.
 
-4️⃣ Simulated Do-While Loop
+4️⃣ Simulated Do-While Loop:
 
 while True:
     try:
@@ -89,16 +89,16 @@ Explanation:
 
 - Uses strip() to remove extra spaces and .lower() to handle case-insensitive responses.
 
-▶️ How to Run
+▶️ How to Run:
 
-1. Save the script as break_continue.py.
+1. Save the script as main.py.
 
 2. Open your terminal and run:
 python main.py
 
 3. Follow the on-screen instructions.
 
-📝 Notes
+📝 Notes:
 
 - break exits the loop completely.
 
@@ -106,7 +106,7 @@ python main.py
 
 - A do-while loop in Python can be achieved using while True with an exit condition.
 
-📷 Example Output
+📷 Example Output:
 
 12 * 1 = 12
 12 * 2 = 24
@@ -126,4 +126,4 @@ Do you want to restart? (yes/no) : no
 GoodBye... Thanks for playing :)
 
 Author: Ankur Dhar
-Project: Break And Continue in Python
+Note: Break And Continue in Python

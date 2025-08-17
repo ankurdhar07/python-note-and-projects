@@ -44,7 +44,7 @@ print(numbers[7])
 
 👉 Full code is available in the repository.
 
-🖥️ Output Highlights
+🖥️ Output Highlights:
 
 - Accessing list items
 
@@ -56,7 +56,7 @@ print(numbers[7])
 
 - List comprehensions with expressions and conditions
 
-📦 How to Run
+📦 How to Run:
 
 Clone this repository and run the Python file:
 git clone https://github.com/ankurdhar07/your-repo-name.git

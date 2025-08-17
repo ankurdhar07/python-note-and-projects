@@ -27,15 +27,17 @@ print(pie[3])        # Single character at index 3
 nm = "Rahul"
 print(nm[-4:-2])     # Negative index slicing (ans = "ah")
 
-🚀 How to Run
+🚀 How to Run:
+
 1. Make sure you have Python 3.x installed.
 
-2. Save the file as string_slicing.py.
+2. Save the file as main.py.
 
 3. Open a terminal and run:
-python string_slicing.py
+python main.py
 
-📌 Key Concepts
+📌 Key Concepts:
+
 - String Slicing: string[start:end] returns characters from start to end-1.
 
 - Negative Indexing: -1 represents the last character, -2 the second last, and so on.

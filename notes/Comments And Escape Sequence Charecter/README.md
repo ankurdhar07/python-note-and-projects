@@ -34,7 +34,7 @@ print(a, b, sep="-")  # Output: 4-4
 # Using 'end' parameter
 print(a + b, end="\n43")  # Output: 8
 
-💻 Example Output
+💻 Example Output:
 
 Heyy! "I am Ankur"
 Heyy! 'I am Ankur'
@@ -42,7 +42,8 @@ Heyy! 'I am Ankur'
 8
 43
 
-📖 Notes
+📖 Notes:
+
 - Escape sequences are useful when working with special characters inside strings.
 
 - The sep parameter is handy for formatting output.

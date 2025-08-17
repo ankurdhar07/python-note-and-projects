@@ -33,16 +33,16 @@ c = a + b
 print(c)
 print(type(c))
 
-🚀 How to Run
+🚀 How to Run:
 
 1. Ensure Python 3.x is installed.
 
-2. Save this script as type_casting.py.
+2. Save this script as main.py.
 
 3. Run the script:
-python type_casting.py
+python main.py
 
-💡 Example Output
+💡 Example Outputa:
 
 6
 The sum of both numbers is 22

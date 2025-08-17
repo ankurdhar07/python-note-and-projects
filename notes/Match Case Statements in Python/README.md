@@ -46,7 +46,7 @@ match a:
     case _:
         print(a)
 
-💻 Example Output
+💻 Example Output:
 
 Enter the value of a: 5
 Case is 5
@@ -57,7 +57,8 @@ Enter the value of a: 40
 Enter the value of a: 100
 100 is not equal to 60
 
-📖 Notes
+📖 Notes:
+
 - match-case is similar to switch-case in other languages.
 
 - The first matching case is executed, and the rest are skipped.

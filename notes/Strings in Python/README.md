@@ -3,6 +3,7 @@
 This Python program demonstrates **string creation, indexing, and iteration** in Python.
 
 ## 📜 Description
+
 The script covers:
 - Creating strings using **single quotes**, **double quotes**, and **triple quotes**.
 - Printing multiline strings.
@@ -39,7 +40,8 @@ for character in Apple:
 
     print(character)
 
-🚀 How to Run
+🚀 How to Run:
+
 1. Make sure you have Python 3.x installed.
 
 2. Save the file as strings_example.py.
@@ -47,7 +49,8 @@ for character in Apple:
 3. Open a terminal and run:
 python strings_example.py
 
-📌 Key Concepts
+📌 Key Concepts:
+
 - Triple quotes (''' or """) allow writing multiline strings.
 
 - Strings are zero-indexed in Python (friend[0] is the first character).

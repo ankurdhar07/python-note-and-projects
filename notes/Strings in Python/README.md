@@ -44,10 +44,10 @@ for character in Apple:
 
 1. Make sure you have Python 3.x installed.
 
-2. Save the file as strings_example.py.
+2. Save the file as main.py.
 
 3. Open a terminal and run:
-python strings_example.py
+python main.py
 
 📌 Key Concepts:
 

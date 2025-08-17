@@ -59,7 +59,7 @@ print(numbers[7])
 📦 How to Run:
 
 Clone this repository and run the Python file:
-git clone https://github.com/ankurdhar07/your-repo-name.git
+git clone https://github.com/ankurdhar07/python-note-and-projects
 cd python-note-and-projects
 python main.py
 

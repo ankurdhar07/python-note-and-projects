@@ -41,27 +41,27 @@ python main.py
 
 📜 Code Example:
 
-a = int(input("Enter First Number : "))
-b = int(input("Enter Second Number : "))
-print("Addition of", a, "and", b, "is :", a + b)
-print("Subtraction of", a, "and", b, "is :", a - b)
-print("Multiplication of", a, "and", b, "is :", a * b)
-print("Division of", a, "and", b, "is :", a / b)
-print("Modulus of", a, "and", b, "is :", a % b)
-print("Floor Division of", a, "and", b, "is :", a // b)
-print("Exponential of", a, "and", b, "is :", a ** b)
+- a = int(input("Enter First Number : "))
+- b = int(input("Enter Second Number : "))
+- print("Addition of", a, "and", b, "is :", a + b)
+- print("Subtraction of", a, "and", b, "is :", a - b)
+- print("Multiplication of", a, "and", b, "is :", a * b)
+- print("Division of", a, "and", b, "is :", a / b)
+- print("Modulus of", a, "and", b, "is :", a % b)
+- print("Floor Division of", a, "and", b, "is :", a // b)
+- print("Exponential of", a, "and", b, "is :", a ** b)
 
 💡 Example Output:
 
-Enter First Number : 5
-Enter Second Number : 3
-Addition of 5 and 3 is : 8
-Subtraction of 5 and 3 is : 2
-Multiplication of 5 and 3 is : 15
-Division of 5 and 3 is : 1.6666666667
-Modulus of 5 and 3 is : 2
-Floor Division of 5 and 3 is : 1
-Exponential of 5 and 3 is : 125
+- Enter First Number : 5
+- Enter Second Number : 3
+- Addition of 5 and 3 is : 8
+- Subtraction of 5 and 3 is : 2
+- Multiplication of 5 and 3 is : 15
+- Division of 5 and 3 is : 1.6666666667
+- Modulus of 5 and 3 is : 2
+- Floor Division of 5 and 3 is : 1
+- Exponential of 5 and 3 is : 125
 
 
 📜 License

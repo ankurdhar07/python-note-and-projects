@@ -2,7 +2,8 @@
 A simple yet smart Python program that generates a multiplication table for any number entered by the user.
 The program also includes error handling for invalid inputs, a countdown feature before each new round, and an option to repeat or exit.
 
-✨ Features
+✨ Features:
+
 - ✅ Accepts user input for any integer
 
 - ✅ Handles invalid inputs gracefully (ValueError handling)
@@ -13,24 +14,24 @@ The program also includes error handling for invalid inputs, a countdown feature
 
 - ✅ Option to generate another table or exit
 
-📂 Project Structure
+📂 Project Structure:
 
 Smart Multiplication Table/
-│── multiplication_table.py   # Main Python script
+│── main.py   # Main Python script
 │── README.md                  # Project documentation
 🛠 Requirements
 - Python 3.x
 
 - Works on any OS (Windows, macOS, Linux)
 
-🚀 How to Run
-1. Clone the repository:
-git clone https://github.com/yourusername/Smart-Multiplication-Table.git
-cd Smart-Multiplication-Table
-2. Run the script
-python multiplication_table.py
+🚀 How to Run:
 
-📌 Example Output
+1. Clone the repository:
+git clone https://github.com/ankurdhar07/python-note-and-projects
+2. Run the script
+python main.py
+
+📌 Example Output:
 
 Enter a number for its Multiplication Table : 5
 
@@ -49,8 +50,10 @@ Countdown before exiting this round :
 
 Do you want to generate another table? (yes/no) : yes
 
+
 📜 License
 This project is licensed under the MIT License — feel free to use, modify, and distribute.
+
 
 👤 Author
 Ankur Dhar

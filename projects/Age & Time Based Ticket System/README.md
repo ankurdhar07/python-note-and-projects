@@ -6,6 +6,7 @@ This project demonstrates **conditional statements (`if-elif-else`)** and **user
 ---
 
 ## 📌 Features
+
 - Takes **age** as input.
 - Takes **time of day** as input (`Morning`, `Afternoon`, `Evening`).
 - Calculates ticket price based on **predefined rules**.
@@ -14,6 +15,7 @@ This project demonstrates **conditional statements (`if-elif-else`)** and **user
 ---
 
 ## 🖥️ How It Works
+
 1. The user enters their **age**.
 2. The user specifies the **time of day**.
 3. The program checks:
@@ -44,27 +46,30 @@ Enter time of day (Morning / Afternoon / Evening): afternoon
 ---
 
 ## 🛠️ Technologies Used
+
 - **Python 3.x**
 - Terminal / Command Prompt
 
 ---
 
 ## 📂 Installation & Usage
+
 1. Make sure you have **Python 3.x** installed.
 2. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/age-time-ticket-system.git
+   git clone https://github.com/ankurdhar07/python-note-and-projects
 
 Navigate to the project folder:
-cd age-time-ticket-system
+cd python-note-and-projects
 
 Run the program:
-python ticket_system.py
+python main.py
 
 📜 License
 This project is open-source and available under the MIT License.
 
 👤 Author
+
 Ankur Dhar
 📧 Email: ankurdhar69@gmail.com
 💻 GitHub: ankurdhar07

@@ -1,7 +1,7 @@
 Good Morning Sir
 A simple Python program that greets the user based on the current time of the day.
 
-📌 Features
+📌 Features:
 Automatically detects the current system time.
 
 Greets appropriately:
@@ -14,7 +14,8 @@ Good Afternoon Sir (4:00 PM – 5:59 PM)
 
 Good Night Sir (6:00 PM – 4:59 AM)
 
-🖥️ How It Works
+🖥️ How It Works:
+
 The program uses Python’s built-in datetime module to get the current hour.
 
 Based on the hour, it selects a greeting message.
@@ -37,21 +38,25 @@ else:
     print("Good night sir")
 
 🚀 How to Run:
+
 1. Make sure you have Python 3 installed.
 
 2. Save the code in a file, for example:
-good_morning_sir.py
+main.py
 3. Open a terminal or command prompt in the file’s directory.
 4. Run:
-python good_morning_sir.py
+python main.py
 
 📂 File Structure:
+
 Good-Morning-Sir/
-│-- good_morning_sir.py
+│-- main.py
 │-- README.md
+
 
 📜 License
 This project is licensed under the MIT License — you are free to use and modify it.
+
 
 👤 Author
 Ankur Dhar

@@ -5,12 +5,14 @@ A simple yet fun Python command-line game where the player has to guess a secret
 ---
 
 ## 📌 Description
+
 In this game, the computer randomly selects a number between **1 and 50**, and you have **5 attempts** to guess it.  
 The program will give hints if your guess is too high or too low.
 
 ---
 
 ## ✨ Features
+
 - Randomly generated secret number.
 - Limited attempts (5 chances).
 - Interactive hints after each guess.
@@ -19,16 +21,18 @@ The program will give hints if your guess is too high or too low.
 ---
 
 ## 🛠️ Installation
+
 1. Make sure **Python 3.x** is installed on your system.
 2. Download or clone this repository:
-   git clone https://github.com/yourusername/number-guessing-game.git
+   git clone https://github.com/ankurdhar07/python-note-and-projects
 3. Navigate to the project folder:
-cd number-guessing-game
+cd python-note-and-projects
+
 
 ▶️ How to Run:
 
 Run the script using Python:
-python number_guessing_game.py
+python main.py
 
 📂 Code:
 
@@ -71,8 +75,10 @@ Yayy! You entered the correct number!
 
 The secret number was : 35
 
+
 📄 License
 This project is licensed under the MIT License - feel free to modify and use it.
+
 
 👤 Author
 Ankur Dhar

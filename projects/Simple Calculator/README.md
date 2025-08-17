@@ -5,6 +5,7 @@ A simple command-line calculator built in Python that can perform basic arithmet
 ---
 
 ## 📌 Features
+
 - ➕ Addition
 - ➖ Subtraction
 - ✖️ Multiplication
@@ -21,21 +22,22 @@ A simple command-line calculator built in Python that can perform basic arithmet
 ---
 
 ## 📂 Project Structure
+
 Calculator.py # Main Python script
 README.md # Project documentation
 
 ---
 
 ## 🚀 How to Run
+
 1. Make sure you have **Python 3** installed on your system.
 2. Clone this repository:
-   git clone https://github.com/YourUsername/Calculator-using-Python.git
-
+   git clone https://github.com/ankurdhar07/python-note-and-projects
 Navigate to the project folder:
-cd Calculator-using-Python
+cd python-note-and-projects
 
 Run the Python script:
-python Calculator.py
+python main.py
 
 📜 Code Example:
 
@@ -61,8 +63,10 @@ Modulus of 5 and 3 is : 2
 Floor Division of 5 and 3 is : 1
 Exponential of 5 and 3 is : 125
 
+
 📜 License
 This project is licensed under the MIT License — feel free to use, modify, and distribute.
+
 
 👤 Author
 Ankur Dhar

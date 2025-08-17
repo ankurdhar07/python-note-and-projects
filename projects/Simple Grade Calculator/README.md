@@ -5,6 +5,7 @@ A beginner-friendly Python program that takes a student's marks as input and det
 ---
 
 ## 📜 Features
+
 - Accepts marks between **0 to 100**
 - Provides grades **A to E** or **Fail** based on marks
 - Handles invalid input gracefully
@@ -12,6 +13,7 @@ A beginner-friendly Python program that takes a student's marks as input and det
 ---
 
 ## 📊 Grade Criteria
+
 | Marks Range | Grade  |
 |-------------|--------|
 | 90 - 100    | A      |
@@ -24,6 +26,7 @@ A beginner-friendly Python program that takes a student's marks as input and det
 ---
 
 ## 🛠 How It Works
+
 1. The program asks the user to enter marks between **0 to 100**.
 2. It evaluates the marks and prints the corresponding grade.
 3. If the input is outside the range, it displays an **invalid number** message.
@@ -36,16 +39,21 @@ A beginner-friendly Python program that takes a student's marks as input and det
 ---
 
 ## 🚀 How to Run
+
 1. **Clone or download** the project.
 2. Open the terminal or command prompt.
 3. Run the script:
    python grade_calculator.py
 4. Enter your marks when prompted.
+
+
 🖥 Example Run:
 Enter your marks between 0 to 100 :85
 Grade B
 
-📌 Notes
+
+📌 Notes:
+
 - Make sure to enter integer values only.
 
 - This project is great for beginners learning about:
@@ -53,6 +61,7 @@ Grade B
 - if-elif-else conditions
 
 - User input handling in Python
+
 
 📄 License
 This project is open-source and free to use for educational purposes.

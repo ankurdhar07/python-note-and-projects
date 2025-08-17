@@ -2,7 +2,8 @@
 A simple yet intelligent Python program that calculates ticket prices based on age and time of day.
 It uses conditional logic to determine accurate pricing for different age groups and timings.
 
-📌 Features
+📌 Features:
+
 - 🧒 Age-based pricing — Different rates for kids, teens, adults, and seniors.
 
 - ⏰ Time-based pricing — Morning, afternoon, and evening rates.
@@ -11,13 +12,15 @@ It uses conditional logic to determine accurate pricing for different age groups
 
 - 🖥 Easy to use — Works in any Python-supported terminal.
 
-📂 Project Structure
+📂 Project Structure:
+
 Smart-Ticket-Price-Calculator/
-│── ticket_price.py     # Main Python script
+│── main.py     # Main Python script
 │── README.md           # Documentation
 
 
-🚀 How to Run
+🚀 How to Run:
+
 1. Clone or Download this project.
 
 2. Make sure you have Python 3.x installed.
@@ -25,9 +28,10 @@ Smart-Ticket-Price-Calculator/
 3. Open a terminal and navigate to the project folder.
 
 4. Run the script:
-python ticket_price.py
+python main.py
 
-💻 Example Usage
+💻 Example Usage:
+
 Enter your age : 15
 Enter time of the day (morning / afternoon / evening) : evening
 Your ticket price is 200
@@ -45,8 +49,10 @@ Your ticket price is 200
 
 - Morning Shows: Usually cheaper than afternoon or evening.
 
+
 📜 License
 This project is open-source and free to use for educational purposes.
+
 
 👤 Author
 Ankur Dhar

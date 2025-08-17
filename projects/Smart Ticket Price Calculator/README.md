@@ -32,9 +32,9 @@ python main.py
 
 💻 Example Usage:
 
-Enter your age : 15
-Enter time of the day (morning / afternoon / evening) : evening
-Your ticket price is 200
+- Enter your age : 15
+- Enter time of the day (morning / afternoon / evening) : evening
+- Your ticket price is 200
 
 🛠 Logic Behind the Program:
 

@@ -40,20 +40,20 @@ python main.py
 
 🖼️ Example Output:
 
- ===Simple Calculator=== 
-Enter your first number : 10
-Enter your second number : 5
+-  ===Simple Calculator=== 
+- Enter your first number : 10
+- Enter your second number : 5
 
 1. Addition
 2. Subtraction
 3. Multiplication
 4. Division
 
-Enter your operation : 3
+- Enter your operation : 3
 
-Result : 50
+- Result : 50
 
-Thanks for playing :)
+- Thanks for playing :)
 
 
 🛠️ Technologies Used

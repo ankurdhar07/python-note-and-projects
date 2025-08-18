@@ -29,10 +29,10 @@ Simple-Calculator/
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ankurdhar07/Simple-Calculator.git
+   git clone https://github.com/ankurdhar07/python-note-and-projects
 
 2. Navigate to the project folder:
-cd Simple-Calculator
+cd python-note-and-projects
 
 3. Run the program:
 python main.py

@@ -1,71 +1,74 @@
-# 🧮 Calculator using Python
+# 🧮 Python Simple Calculator
 
-A simple command-line calculator built in Python that can perform basic arithmetic operations such as addition, subtraction, multiplication, division, modulus, floor division, and exponentiation.
+A beginner-friendly calculator built in Python that can perform basic arithmetic operations such as addition, subtraction, multiplication, and division.  
 
----
-
-## 📌 Features
-
-- ➕ Addition
-- ➖ Subtraction
-- ✖️ Multiplication
-- ➗ Division
-- 🪙 Modulus
-- 📏 Floor Division
-- 🔼 Exponentiation
+This project is designed to help beginners understand:
+- Taking user input in Python
+- Handling errors with `try-except`
+- Using conditional statements (`if-elif-else`)
+- Performing arithmetic operations
 
 ---
 
-## 🛠️ Technologies Used
-- **Language:** Python 3
+## ✨ Features
+- ➕ Addition of two numbers
+- ➖ Subtraction of two numbers
+- ✖️ Multiplication of two numbers
+- ➗ Division of two numbers (with error handling)
+- Error handling for invalid inputs
 
 ---
 
 ## 📂 Project Structure
-
-Calculator.py # Main Python script
-README.md # Project documentation
+Simple-Calculator/
+│── main.py # The main script to run the calculator
+│── README.md # Project documentation
 
 ---
 
 ## 🚀 How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/ankurdhar07/Simple-Calculator.git
 
-1. Make sure you have **Python 3** installed on your system.
-2. Clone this repository:
-   git clone https://github.com/ankurdhar07/python-note-and-projects
-Navigate to the project folder:
-cd python-note-and-projects
+2. Navigate to the project folder:
+cd Simple-Calculator
 
-Run the Python script:
+3. Run the program:
 python main.py
 
-📜 Code Example:
 
-- a = int(input("Enter First Number : "))
-- b = int(input("Enter Second Number : "))
-- print("Addition of", a, "and", b, "is :", a + b)
-- print("Subtraction of", a, "and", b, "is :", a - b)
-- print("Multiplication of", a, "and", b, "is :", a * b)
-- print("Division of", a, "and", b, "is :", a / b)
-- print("Modulus of", a, "and", b, "is :", a % b)
-- print("Floor Division of", a, "and", b, "is :", a // b)
-- print("Exponential of", a, "and", b, "is :", a ** b)
+🖼️ Example Output:
 
-💡 Example Output:
+ ===Simple Calculator=== 
+Enter your first number : 10
+Enter your second number : 5
 
-- Enter First Number : 5
-- Enter Second Number : 3
-- Addition of 5 and 3 is : 8
-- Subtraction of 5 and 3 is : 2
-- Multiplication of 5 and 3 is : 15
-- Division of 5 and 3 is : 1.6666666667
-- Modulus of 5 and 3 is : 2
-- Floor Division of 5 and 3 is : 1
-- Exponential of 5 and 3 is : 125
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+
+Enter your operation : 3
+
+Result : 50
+
+Thanks for playing :)
+
+
+🛠️ Technologies Used
+
+- Python 3.x
+
+
+🤝 Contribution
+
+Feel free to fork this repository, raise issues, or submit pull requests to improve this calculator.
 
 
 📜 License
-This project is licensed under the MIT License — feel free to use, modify, and distribute.
+
+This project is licensed under the MIT License.
 
 
 👤 Author

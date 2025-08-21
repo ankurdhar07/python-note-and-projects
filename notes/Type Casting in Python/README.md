@@ -2,13 +2,13 @@
 
 This Python program demonstrates **type casting** (type conversion) in Python — converting values from one data type to another.
 
-## 📜 Description
+## 📜 Description:
 The script covers:
 - Converting strings to integers using `int()`.
 - Automatic (implicit) type conversion by Python.
 - Checking data types using `type()`.
 
-## 🧩 Code Example
+## 🧩 Code Example:
 ```python
 a = 3
 b = 3

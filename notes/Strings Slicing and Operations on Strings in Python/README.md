@@ -2,14 +2,14 @@
 
 This Python program demonstrates how to **slice strings**, find their length, and access specific characters using both **positive and negative indexing**.
 
-## 📜 Description
+## 📜 Description:
 The script covers:
 - Slicing strings using `[start:end]` syntax.
 - Determining the length of a string using `len()`.
 - Accessing characters using **negative indexes**.
 - Partial string extraction without specifying start or end indexes.
 
-## 🧩 Code Example
+## 🧩 Code Example:
 ```python
 names = "Ankur, Rohan"
 print(names[0:4])  # Slices characters from index 0 to 3

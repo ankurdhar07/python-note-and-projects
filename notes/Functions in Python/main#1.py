@@ -40,7 +40,7 @@ def isGreater(a, b):
     if (a > b ):
         print("\nFirst number is greater than second number\n")
     else:
-        print("\nFirst numeber is not greater than second number or equal\n")    
+        print("\nFirst number is not greater than second number or equal\n")    
 a = 6
 b = 3
 isGreater(a, b)
